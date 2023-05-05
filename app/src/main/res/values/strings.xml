@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CourseApp</string>
+
+    <string name="course_1">Architecture</string>
+    <string name="course_2">Business</string>
+    <string name="course_3">Crafts</string>
+    <string name="course_4">Culinary</string>
+    <string name="course_5">Design</string>
+    <string name="course_6">Drawing</string>
+    <string name="course_7">Fashion</string>
+    <string name="course_8">Film</string>
+    <string name="course_9">Gaming</string>
+    <string name="course_10">Lifestyle</string>
+    <string name="course_11">Music</string>
+    <string name="course_12">Painting</string>
+    <string name="course_13">Photography</string>
+    <string name="course_14">Tech</string>
+</resources>
